@@ -1,8 +1,7 @@
 Project: movie recommendation engine based on Excel
 =================================================
 
-This is a basic movie suggestion engine apps based on excel.It is able to help out someone to find out his/her favourite genre or actor or country's movie based on which movie
-he/she saw before. If you are beginner in excel you can check out how the basic formulas work through this project and also how to create data base, dashboard in excel.
+This is a basic movie suggestion engine apps based on excel. It is able to help out someone to find out his/her favorite movie based on which movie he/she saw before. If you are a beginner in excel you can check out how the basic formulas work through this project and also how to create a database, the dashboard in excel.
 
 [![GitHub license](https://img.shields.io/github/license/InjamulHoque/movie-recommendation-engine?color=yellow&style=flat-square)](https://github.com/InjamulHoque/movie-recommendation-engine)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Injamulhoque_ds?style=social)
@@ -24,8 +23,7 @@ Table of contents
 
 Introduction
 ------------
-People who are so much loving movie, always struggling to find out their favourite movie. so that this project is obviously belong to them, it suppose to them, althoug it is created
-for practising purpose. 
+People who are crazy fans of the movie, always struggling to find out their favorite movie. This project obviously belongs to them, it supposes to them, although it is created for practicing purposes.
 
 Here listed the goal points of this project as follows:
 
@@ -52,7 +50,7 @@ A suggested approach for using this project is as follows:
 
 Getting help
 ------------
-Here I have given my all social id links. If you face any problem then pls don't feel hasitated to contact with me.
+Here I have given my all social id links. If you face any problem then pls don't feel hesitate to contact me.
 
 * [LinkedIn Id](https://www.linkedin.com/in/injamulhoqueds)
 * [Tweeter Id]( @Injamulhoque_ds)
@@ -73,10 +71,9 @@ This project is distributed under the terms of the MIT license.  The license app
 Authors and history
 ---------------------------
 
-The author of this project is Injamul Hoque who is a data science practitioner. He recently made a ds roadmap and this project is a part of his learnig according to the roadmap.
-
+The author of this project is Injamul Hoque who is a data science practitioner. He recently made a ds roadmap and this project is a examples of his learning according to the roadmap.
 
 Acknowledgments
 ---------------
 
-I have completed this project through the course "MS Excel for data analysis" in Udemy, conducting by the nice instructor Yassin Marco.
+I have completed this project through the course "MS Excel for data analysis" in the Udemy E-learning platform, conducted by the nice instructor Yassin Marco.
